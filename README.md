@@ -1,2 +1,3 @@
 # foo
-just a foo
+another line
+just a foo?
